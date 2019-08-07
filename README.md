@@ -1,8 +1,6 @@
 # BITESIZE-10338-Spike
 Spike Investigation for 10388
 
-# BITESIZE-10338 - Spike
-
 ## Introduction
 
 The aim of ticket 10338 is to investigate the ease of adding a full page width, animated banner into a revision chapter (study-guide).
